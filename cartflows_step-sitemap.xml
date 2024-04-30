@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on 30 April 2024 at 21:53 by All in One SEO v4.6.1.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://dhananjay-pareek.github.io/transformsyou.in//default-sitemap.xsl?sitemap=cartflows_step"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://dhananjay-pareek.github.io/transformsyou.in//step/store-checkout-03/]]></loc>
+		<lastmod><![CDATA[2023-12-29T18:13:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://dhananjay-pareek.github.io/transformsyou.in//wp-content/uploads/2023/12/cropped-Copy-of-Code.AI-1-1-e1701532551183.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://dhananjay-pareek.github.io/transformsyou.in//wp-content/uploads/2023/12/modern-checkout-two-columns-template-guarantee-badge.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://dhananjay-pareek.github.io/transformsyou.in//step/store-checkout-thank-you-03/]]></loc>
+		<lastmod><![CDATA[2023-12-29T16:54:04+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://dhananjay-pareek.github.io/transformsyou.in//wp-content/uploads/2023/12/cropped-Copy-of-Code.AI-1-1-e1701532551183.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://dhananjay-pareek.github.io/transformsyou.in//step/store-checkout-04/]]></loc>
+		<lastmod><![CDATA[2023-12-29T16:16:35+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://dhananjay-pareek.github.io/transformsyou.in//wp-content/uploads/2023/12/global-checkout-template-logo.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://dhananjay-pareek.github.io/transformsyou.in//wp-content/uploads/2023/12/modern-checkout-two-columns-template-avatar-1.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://dhananjay-pareek.github.io/transformsyou.in//wp-content/uploads/2023/12/digital-marketing-guide-avatar-image-2.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://dhananjay-pareek.github.io/transformsyou.in//wp-content/uploads/2023/12/modern-checkout-two-columns-template-guarantee-badge.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://dhananjay-pareek.github.io/transformsyou.in//step/store-checkout-thank-you-04/]]></loc>
+		<lastmod><![CDATA[2023-12-29T16:16:35+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://dhananjay-pareek.github.io/transformsyou.in//wp-content/uploads/2023/12/global-checkout-template-logo.png]]></image:loc>
+		</image:image>
+	</url>
+</urlset>
